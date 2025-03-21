@@ -12,6 +12,12 @@
 ## 📊 GitHub Stats  
 ![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankrauthan&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayankrauthan&theme=dark)
+
+
+📫 **Connect with me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank%20Rauthan-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/mayankrauthan](https://www.linkedin.com/in/mayank-rauthan-82b385226/))  
+
 <!--
 **MayankRauthan/MayankRauthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
