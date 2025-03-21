@@ -12,6 +12,7 @@
 ## 📊 GitHub Stats  
 ![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankrauthan&show_icons=true&theme=radical)
 
+### Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayankrauthan&theme=dark)
 
 
