@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hey, I’m Mayank Rauthan
+I'm an engineer who loves building things — whether it's full-stack web apps, smart ML models, or clean UI/UX experiences.
 
 ### 🚀 Tech Stack  
 
@@ -26,7 +27,12 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankRauthan/MayankRauthan/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankRauthan/MayankRauthan/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/MayankRauthan/MayankRauthan/blob/output/github-snake.svg" />
+</picture>
+<!--
 
 
 ## 📊 GitHub Stats  
@@ -40,22 +46,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayank%20Rauthan-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/mayankrauthan](https://www.linkedin.com/in/mayank-rauthan-82b385226/))  
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MayankRauthan/MayankRauthan/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MayankRauthan/MayankRauthan/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/MayankRauthan/MayankRauthan/blob/output/github-snake.svg" />
-</picture>
-<!--
+
 **MayankRauthan/MayankRauthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
