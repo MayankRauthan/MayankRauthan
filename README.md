@@ -1,5 +1,10 @@
 ## 👋 Hey, I’m Mayank Rauthan
-I'm an engineer who loves building things — whether it's full-stack web apps, smart ML models, or clean UI/UX experiences.
+
+I'm a Data Engineer focused on building reliable, fault-tolerant data pipelines, automation, and data-driven applications.
+
+I enjoy working with complex streaming data and solving challenging data engineering problems.
+
+Always exploring new technologies and ways to build better, more scalable systems.
 
 ### 🚀 Tech Stack  
 
